@@ -31,11 +31,11 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Iter8
+  name: Iter8 Consulting AB
   email: iter8consulting@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/iter8consulting
+    - https://www.linkedin.com/company/iter8-consulting
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

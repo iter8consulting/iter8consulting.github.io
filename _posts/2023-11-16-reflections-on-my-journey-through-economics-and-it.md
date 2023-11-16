@@ -1,4 +1,5 @@
 ---
+author: <robin_sardella>
 layout: post
 title: Reflections on my Journey Through Economics and IT
 date: '2023-11-16 10:50:48 +0100'
