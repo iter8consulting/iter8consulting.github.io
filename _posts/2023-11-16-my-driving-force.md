@@ -3,7 +3,7 @@ layout: post
 title: My driving force
 date: '2023-11-16 10:50:48 +0100'
 categories: [Journal, Business]
-tags: [Career, Money, Financial Freedom, IT-consultant]
+tags: [career, money, financial freedom]
 ---
 
 Året var 2019, som ekonomistudent på väg att ta examen från Ekonomihögskolan i Lund, stod jag inför
