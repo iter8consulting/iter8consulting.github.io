@@ -7,7 +7,7 @@ categories: [Journal, Career]
 tags: [software, consultant, financial freedom]
 ---
 
-> Written and illustrated with the help of generative AI.
+> Written and illustrated with the help of AI.
 {: .prompt-info }
 
 ## 1. My last year in School of Economics
