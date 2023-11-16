@@ -6,6 +6,9 @@ categories: [Journal, Career]
 tags: [software, consultant, financial freedom]
 ---
 
+> Written and illustrated with the help of generative AI.
+{: .prompt-info }
+
 The year was 2019, and as an economics student on the verge of graduating from the School of Economics at Lund University, I faced professional uncertainty. The dream of working at an investment bank with its enticing salaries and big deals was there, but the long working hours and the competitive, status-driven environment seemed to threaten my personal well-being. Moreover, the industry showed signs of stagnation.
 
 ![A young student, deeply thoughtful, stands in the historic and prestigious campus of the
